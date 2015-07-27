@@ -1,0 +1,35 @@
+<html>
+
+</head>
+<title></title>
+<link rel="stylesheet" href="style.CSS">
+</head>
+<body>
+
+
+<div class="class1">
+<p class="class1">My name is Lola</p>
+<p class="class2"><img src="Sipe.png">Sipe</p>
+</div>
+
+<div>
+<form action="" method="Post">
+<fieldset>
+<legend>Login</legend>
+Student Number:   <input type="text"  id="login"></input><br/><br/>
+Password:         <input type="password" id="password"></input><br/><br/>
+<input type="button"value="LOGIN"/>
+</fieldset>
+ <form/>
+ </div>
+ 
+ <div>
+ <h1>Menu</h1>
+ <a href="register.html"register></a><br/>
+ <a href="save.html"save></a><br/>
+ <a href="view.html"view></a><br/>
+ </div>
+ 
+
+</body>
+</html>
